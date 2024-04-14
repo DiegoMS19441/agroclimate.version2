@@ -11,7 +11,7 @@ public record CadastrarColheitaDto(
         @NotNull@Past
         Calendar dataColheita,
 
-
+        @NotNull@NotBlank
         Integer quantidade)
  {
 }
