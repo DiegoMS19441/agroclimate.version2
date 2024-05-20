@@ -20,23 +20,10 @@ maximizar sua produtividade agricola
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Requests Criados
+REMOVIDOO: Calendar 
 
-Fazenda
-http://localhost:8080/fazendas/52
-http://localhost:8080/fazendas/6
+Adicionado: Relacionamento de Classes
 
-Solo
-http://localhost:8080/solos/1
-http://localhost:8080/solos/2
-
-InfoPlantacao
-http://localhost:8080/infoplantacaoes/3
-http://localhost:8080/infoplantacaoes/4
-
-Clima
-http://localhost:8080/climas/1
-http://localhost:8080/climas/2
 
 ![img.png](Modelagemlógica.png) Modelagem lógica
 
