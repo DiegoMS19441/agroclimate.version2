@@ -19,7 +19,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("safras")
+@RequestMapping("/safras")
 public class SafraController {
 
     @Autowired
