@@ -22,7 +22,6 @@ public record CadastrarFazendaDto(
         String email,
 
         @NotNull
-        @Size(max = 9, min = 9)
         String telefone,
 
         @NotNull@Min(100)
