@@ -18,7 +18,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import java.util.List;
 
 @RestController
-@RequestMapping("solos")
+@RequestMapping("/solos")
 public class SoloController {
 
     @Autowired
