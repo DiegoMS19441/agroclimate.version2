@@ -6,17 +6,8 @@ RM97798 - Ester Dutra da Silva  (2TDSPV)
 RM550981- Henrique Gerson Costa Correia (2TDSPV)
 RM99985 - Felipe Batista Gregorio (2TDSPY)
 
-
-Descricao do problema a resolver
-
-Nosso projeto AGROCLIMATE visa solucionar a incerteza enfrentada pelos agricultores 
-ao planejar suas safras, fornecendo uma ferramenta intuitiva e precisa para avaliar a 
-viabilidade e o potencial de sucesso de determinadas culturas em suas areas de 
-cultivo. 
-Ao coletar e analisar dados sobre clima, tipo de solo e outras variaveis relevantes, 
-nossa aplicacao oferecera aos agricultores insights valiosos sobre as condicoes ideais 
-para o cultivo de diferentes culturas, permitindo-lhes tomar decisoes informadas e 
-maximizar sua produtividade agricola
+# Descrição
+Nosso projeto é voltado para o campo da agricultura. Temos como objetivo desenvolver uma ferramenta que auxilie o agricultor a investir seus recursos em colheitas produtivas. A ferramenta agroclimate vai permitir que através de dados históricos o usuário consiga visualizar através de relatórios quais safras foram mais proveitosas considerando fatores climático, tipo de solo etc., dessa foram o agricultor poderá maximizar seus lucros, pois vai saber quais alimentos podem ser plantados em determinadas épocas do ano e não gastará insumos em plantações improdutivas.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
