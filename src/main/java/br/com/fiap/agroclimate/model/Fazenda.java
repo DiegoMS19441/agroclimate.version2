@@ -32,7 +32,7 @@ public class Fazenda{
         @Column(nullable = false, length = 30)
         private String email;
 
-        @Column(precision = 11)
+
         private String telefone;
 
         @Column(name="tamanho_fazenda", precision = 9)
